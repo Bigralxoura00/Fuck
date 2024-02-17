@@ -244,7 +244,7 @@ logo=("""     ___ ___                     _____.___.
 def info():
 	print(f"""\x1b[37m----------------------------------------------
  AUTHOR     : HARRY BABE
- GITHUB     : HARRY-EXE
+ GITHUB     : Bigralxoura00
  FACEBOOK   : HARRY AKUMA は
  VERSION    : \x1b[37m\x1b[38;5;196m{version}\x1b[37m
 \x1b[37m----------------------------------------------""")
